@@ -1,7 +1,7 @@
 # Predicting the Operational Status of Water Wells in Tanzania
 Driven Data competition - Pump it Up: Data Mining the Water Table
 
-The datasets are hosted by DrivenData: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/
+The datasets are hosted by [DrivenData](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
 
 The data consist of information (40 features) on water wells in Tanzania. The goal is to predict whether a well is "functional", "functional but in need of repairs", or "non functional".
 
